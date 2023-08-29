@@ -3,7 +3,7 @@
 % 2018/01/02
 
 % This is a piece of sample code written by me, Prof. Forbes. Some of this 
-% sampel code is take from, or modified from, Prof. Lagrand. 
+% sample code is take from, or modified from, Prof. Legrand. 
 % The purpose of this sample code is to show students how to do some basic 
 % things in MATLAB. 
 
