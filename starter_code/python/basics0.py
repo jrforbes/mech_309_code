@@ -63,6 +63,7 @@ else:
 
 if not (a < b):
     print('a is not less than b')
+    
 
 c = 5
 if a == c:
@@ -72,6 +73,7 @@ else:
 
 if a != c:
     print('a does not equal c')
+
 
 # %%
 # for loops
